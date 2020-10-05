@@ -1,0 +1,15 @@
+.containerFoto{
+    background: red;
+    display: flex;
+    justify-content: center;
+}
+.informacion{
+    margin: 2rem;
+    background: yellow;
+}
+.foto-batman{
+    width: 15vw;
+    height: auto;
+    margin: 2rem;
+    border: 2px solid rgba(0, 0, 0, 0.431);
+}
